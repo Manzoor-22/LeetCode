@@ -9,6 +9,7 @@ Collection of LeetCode questions solved.
 # Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Manzoor-22/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0148-sort-list](https://github.com/Manzoor-22/LeetCode/tree/master/0148-sort-list) |
 # Divide and Conquer
 |  |
@@ -22,3 +23,7 @@ Collection of LeetCode questions solved.
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Manzoor-22/LeetCode/tree/master/0148-sort-list) |
+# Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Manzoor-22/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
