@@ -27,3 +27,14 @@ Collection of LeetCode questions solved.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Manzoor-22/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Manzoor-22/LeetCode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Manzoor-22/LeetCode/tree/master/0020-valid-parentheses) |
+<!---LeetCode Topics End-->
