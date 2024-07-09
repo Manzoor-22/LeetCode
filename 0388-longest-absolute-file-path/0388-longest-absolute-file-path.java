@@ -1,6 +1,6 @@
 class Solution {
     public int lengthLongestPath(String input) {
-        Deque<Integer> s = new ArrayDeque<>();
+        Stack<Integer> s = new Stack<>();
         s.push(0);
         int ans = 0;
 
