@@ -10,38 +10,23 @@
  */
 class Solution {
     public boolean isPalindrome(ListNode head) {
-        ListNode mid = findMid(head);
+        Stack<Integer> s = new Stack<>();
+        ListNode temp = head;
 
-        ListNode prev = null;
-        ListNode curr = mid, next = mid;
-
-        while(curr != null){
-            next = curr.next;
-            curr.next = prev;
-            prev = curr;
-            curr = next;
+        while(temp != null){
+            s.push(temp.val);
+            temp = temp.next;
         }
 
-        ListNode left = head, right = prev;   
-    
-        while(right != null){
-            if(right.val != left.val)
-                return false;
-            right = right.next;
-            left = left.next;
-        }
-        
-        return true;
-    }
-    public ListNode findMid(ListNode head){
-        ListNode slow, fast;
-        slow = fast = head;
+        temp = head;
 
-        while(fast != null && fast.next != null){
-            slow = slow.next;
-            fast = fast.next.next;
+        while(temp != null){
+            if(temp.val == s.peek()){
+                s.pop();
+            }
+            temp = temp.next;
         }
 
-        return slow;
+        return s.isEmpty();
     }
 }
