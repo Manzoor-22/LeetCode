@@ -33,12 +33,14 @@ Collection of LeetCode questions solved.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Manzoor-22/LeetCode/tree/master/0020-valid-parentheses) |
+| [0388-longest-absolute-file-path](https://github.com/Manzoor-22/LeetCode/tree/master/0388-longest-absolute-file-path) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Manzoor-22/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Manzoor-22/LeetCode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Manzoor-22/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0388-longest-absolute-file-path](https://github.com/Manzoor-22/LeetCode/tree/master/0388-longest-absolute-file-path) |
 | [0496-next-greater-element-i](https://github.com/Manzoor-22/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Manzoor-22/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Array
@@ -65,4 +67,8 @@ Collection of LeetCode questions solved.
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Manzoor-22/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [0388-longest-absolute-file-path](https://github.com/Manzoor-22/LeetCode/tree/master/0388-longest-absolute-file-path) |
 <!---LeetCode Topics End-->
