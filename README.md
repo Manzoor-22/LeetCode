@@ -40,6 +40,7 @@ Collection of LeetCode questions solved.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Manzoor-22/LeetCode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Manzoor-22/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Manzoor-22/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0388-longest-absolute-file-path](https://github.com/Manzoor-22/LeetCode/tree/master/0388-longest-absolute-file-path) |
 | [0496-next-greater-element-i](https://github.com/Manzoor-22/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -73,4 +74,8 @@ Collection of LeetCode questions solved.
 |  |
 | ------- |
 | [0388-longest-absolute-file-path](https://github.com/Manzoor-22/LeetCode/tree/master/0388-longest-absolute-file-path) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Manzoor-22/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
