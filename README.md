@@ -36,6 +36,7 @@ Collection of LeetCode questions solved.
 | [0125-valid-palindrome](https://github.com/Manzoor-22/LeetCode/tree/master/0125-valid-palindrome) |
 | [0388-longest-absolute-file-path](https://github.com/Manzoor-22/LeetCode/tree/master/0388-longest-absolute-file-path) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Manzoor-22/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Manzoor-22/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Stack
 |  |
 | ------- |
@@ -45,6 +46,7 @@ Collection of LeetCode questions solved.
 | [0388-longest-absolute-file-path](https://github.com/Manzoor-22/LeetCode/tree/master/0388-longest-absolute-file-path) |
 | [0496-next-greater-element-i](https://github.com/Manzoor-22/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Manzoor-22/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Manzoor-22/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Array
 |  |
 | ------- |
@@ -91,6 +93,7 @@ Collection of LeetCode questions solved.
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Manzoor-22/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Manzoor-22/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Sorting
 |  |
 | ------- |
