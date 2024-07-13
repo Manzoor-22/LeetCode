@@ -61,10 +61,12 @@ Collection of LeetCode questions solved.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manzoor-22/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Manzoor-22/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manzoor-22/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0219-contains-duplicate-ii](https://github.com/Manzoor-22/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/Manzoor-22/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Manzoor-22/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/Manzoor-22/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manzoor-22/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Manzoor-22/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -137,4 +139,8 @@ Collection of LeetCode questions solved.
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Manzoor-22/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manzoor-22/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Manzoor-22/LeetCode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
