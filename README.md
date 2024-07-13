@@ -36,6 +36,7 @@ Collection of LeetCode questions solved.
 | [0125-valid-palindrome](https://github.com/Manzoor-22/LeetCode/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manzoor-22/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0388-longest-absolute-file-path](https://github.com/Manzoor-22/LeetCode/tree/master/0388-longest-absolute-file-path) |
+| [0392-is-subsequence](https://github.com/Manzoor-22/LeetCode/tree/master/0392-is-subsequence) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Manzoor-22/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Manzoor-22/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2427-first-letter-to-appear-twice](https://github.com/Manzoor-22/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
@@ -80,6 +81,7 @@ Collection of LeetCode questions solved.
 | [0075-sort-colors](https://github.com/Manzoor-22/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Manzoor-22/LeetCode/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/Manzoor-22/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0392-is-subsequence](https://github.com/Manzoor-22/LeetCode/tree/master/0392-is-subsequence) |
 ## Recursion
 |  |
 | ------- |
@@ -98,6 +100,7 @@ Collection of LeetCode questions solved.
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manzoor-22/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Manzoor-22/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/Manzoor-22/LeetCode/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
