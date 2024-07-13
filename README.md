@@ -53,6 +53,7 @@ Collection of LeetCode questions solved.
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Manzoor-22/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Manzoor-22/LeetCode/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Manzoor-22/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0075-sort-colors](https://github.com/Manzoor-22/LeetCode/tree/master/0075-sort-colors) |
@@ -78,6 +79,7 @@ Collection of LeetCode questions solved.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Manzoor-22/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Manzoor-22/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Manzoor-22/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Manzoor-22/LeetCode/tree/master/0125-valid-palindrome) |
@@ -106,6 +108,7 @@ Collection of LeetCode questions solved.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Manzoor-22/LeetCode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Manzoor-22/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Manzoor-22/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Sorting
