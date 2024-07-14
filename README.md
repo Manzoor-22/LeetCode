@@ -153,6 +153,7 @@ Collection of LeetCode questions solved.
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Manzoor-22/LeetCode/tree/master/0009-palindrome-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Manzoor-22/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
