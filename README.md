@@ -70,6 +70,7 @@ Collection of LeetCode questions solved.
 | [0260-single-number-iii](https://github.com/Manzoor-22/LeetCode/tree/master/0260-single-number-iii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Manzoor-22/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0496-next-greater-element-i](https://github.com/Manzoor-22/LeetCode/tree/master/0496-next-greater-element-i) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Manzoor-22/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,6 +100,7 @@ Collection of LeetCode questions solved.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manzoor-22/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Manzoor-22/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/Manzoor-22/LeetCode/tree/master/0392-is-subsequence) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Manzoor-22/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Recursion
 |  |
 | ------- |
@@ -175,4 +177,8 @@ Collection of LeetCode questions solved.
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Manzoor-22/LeetCode/tree/master/0812-rotate-string) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Manzoor-22/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
