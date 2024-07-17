@@ -14,17 +14,25 @@
  * }
  */
 class Solution {
-    List<Integer> ans = new LinkedList<>();
     public List<Integer> inorderTraversal(TreeNode root) {
-        Solution(root);
-        return ans;
-    }
+        List<Integer> ans = new LinkedList<>();
 
-    public void Solution(TreeNode root){
-        if(root != null){
-            Solution(root.left);
-            ans.add(root.val);
-            Solution(root.right);
+        if(root == null){
+            return ans;
         }
+
+        Stack<TreeNode> stk = new Stack<>();
+
+        while(!stk.isEmpty() || root != null){
+            while(root != null){
+                stk.push(root);
+                root = root.left;
+            }
+            root = stk.pop();
+            ans.add(root.val);
+            root = root.right;
+        }
+
+        return ans;
     }
 }
