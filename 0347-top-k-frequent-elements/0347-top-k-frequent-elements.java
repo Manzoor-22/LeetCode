@@ -1,6 +1,6 @@
 class Solution {
     public int[] topKFrequent(int[] nums, int k) {
-        TreeMap<Integer, Integer> hm = new TreeMap<>();
+        HashMap<Integer, Integer> hm = new HashMap<>();
         int[] ans = new int[k];
 
         for(int i : nums){
