@@ -89,6 +89,7 @@ Collection of LeetCode questions solved.
 | [0387-first-unique-character-in-a-string](https://github.com/Manzoor-22/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Manzoor-22/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0782-jewels-and-stones](https://github.com/Manzoor-22/LeetCode/tree/master/0782-jewels-and-stones) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2427-first-letter-to-appear-twice](https://github.com/Manzoor-22/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 ## Monotonic Stack
 |  |
@@ -128,6 +129,7 @@ Collection of LeetCode questions solved.
 | [0145-binary-tree-postorder-traversal](https://github.com/Manzoor-22/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0388-longest-absolute-file-path](https://github.com/Manzoor-22/LeetCode/tree/master/0388-longest-absolute-file-path) |
 | [0543-diameter-of-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Design
 |  |
 | ------- |
@@ -152,6 +154,7 @@ Collection of LeetCode questions solved.
 | ------- |
 | [0015-3sum](https://github.com/Manzoor-22/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Manzoor-22/LeetCode/tree/master/0075-sort-colors) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -224,6 +227,7 @@ Collection of LeetCode questions solved.
 | [0145-binary-tree-postorder-traversal](https://github.com/Manzoor-22/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Manzoor-22/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -239,6 +243,7 @@ Collection of LeetCode questions solved.
 | [0145-binary-tree-postorder-traversal](https://github.com/Manzoor-22/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Manzoor-22/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -247,4 +252,5 @@ Collection of LeetCode questions solved.
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Manzoor-22/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Manzoor-22/LeetCode/tree/master/0112-path-sum) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
