@@ -40,6 +40,7 @@ Collection of LeetCode questions solved.
 | [0387-first-unique-character-in-a-string](https://github.com/Manzoor-22/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0388-longest-absolute-file-path](https://github.com/Manzoor-22/LeetCode/tree/master/0388-longest-absolute-file-path) |
 | [0392-is-subsequence](https://github.com/Manzoor-22/LeetCode/tree/master/0392-is-subsequence) |
+| [0520-detect-capital](https://github.com/Manzoor-22/LeetCode/tree/master/0520-detect-capital) |
 | [0782-jewels-and-stones](https://github.com/Manzoor-22/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/Manzoor-22/LeetCode/tree/master/0812-rotate-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Manzoor-22/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
