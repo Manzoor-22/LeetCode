@@ -45,6 +45,7 @@ Collection of LeetCode questions solved.
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Manzoor-22/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Manzoor-22/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Manzoor-22/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1880-largest-merge-of-two-strings](https://github.com/Manzoor-22/LeetCode/tree/master/1880-largest-merge-of-two-strings) |
 | [2427-first-letter-to-appear-twice](https://github.com/Manzoor-22/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2502-sort-the-people](https://github.com/Manzoor-22/LeetCode/tree/master/2502-sort-the-people) |
 ## Stack
@@ -121,6 +122,7 @@ Collection of LeetCode questions solved.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manzoor-22/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Manzoor-22/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/Manzoor-22/LeetCode/tree/master/0392-is-subsequence) |
+| [1880-largest-merge-of-two-strings](https://github.com/Manzoor-22/LeetCode/tree/master/1880-largest-merge-of-two-strings) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Manzoor-22/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Recursion
 |  |
@@ -166,6 +168,7 @@ Collection of LeetCode questions solved.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Manzoor-22/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Manzoor-22/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Manzoor-22/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1880-largest-merge-of-two-strings](https://github.com/Manzoor-22/LeetCode/tree/master/1880-largest-merge-of-two-strings) |
 ## Sorting
 |  |
 | ------- |
