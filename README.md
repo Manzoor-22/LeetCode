@@ -83,6 +83,7 @@ Collection of LeetCode questions solved.
 | [0496-next-greater-element-i](https://github.com/Manzoor-22/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Manzoor-22/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1063-best-sightseeing-pair](https://github.com/Manzoor-22/LeetCode/tree/master/1063-best-sightseeing-pair) |
+| [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Manzoor-22/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Manzoor-22/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Manzoor-22/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Manzoor-22/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
