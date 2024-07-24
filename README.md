@@ -65,6 +65,7 @@ Collection of LeetCode questions solved.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Manzoor-22/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Manzoor-22/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Manzoor-22/LeetCode/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Manzoor-22/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -95,6 +96,7 @@ Collection of LeetCode questions solved.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Manzoor-22/LeetCode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Manzoor-22/LeetCode/tree/master/0041-first-missing-positive) |
 | [0219-contains-duplicate-ii](https://github.com/Manzoor-22/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Manzoor-22/LeetCode/tree/master/0347-top-k-frequent-elements) |
