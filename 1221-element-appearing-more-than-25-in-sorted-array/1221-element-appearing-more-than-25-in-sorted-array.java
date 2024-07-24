@@ -1,20 +1,22 @@
 class Solution {
     public int findSpecialInteger(int[] arr) {
-        Map<Integer, Integer> hm = new HashMap<>();
-
-        for(int num : arr){
-            if(hm.containsKey(num)){
-                hm.put(num, hm.get(num)+1);
-            } else {
-                hm.put(num, 1);
-            }
+        if(arr.length/4 < 0){
+            return arr[0];
         }
 
-        int n = arr.length;
+        int currCount = 0;
+        int currElement = arr[0];
 
-        for(Map.Entry<Integer, Integer> itr : hm.entrySet()){
-            if(itr.getValue() > n/4){
-                return itr.getKey();
+        for(int i = 0; i < arr.length; i++){
+            if(currElement == arr[i]){
+                currCount++;
+            }
+            if(currCount > arr.length/4){
+                return arr[i];
+            }
+            if(currElement != arr[i]){
+                currCount = 1;
+                currElement = arr[i];
             }
         }
 
