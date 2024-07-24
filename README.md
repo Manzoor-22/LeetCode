@@ -167,6 +167,7 @@ Collection of LeetCode questions solved.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manzoor-22/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Manzoor-22/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Manzoor-22/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Manzoor-22/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0392-is-subsequence](https://github.com/Manzoor-22/LeetCode/tree/master/0392-is-subsequence) |
 | [1063-best-sightseeing-pair](https://github.com/Manzoor-22/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Manzoor-22/LeetCode/tree/master/1296-kth-ancestor-of-a-tree-node) |
@@ -226,6 +227,7 @@ Collection of LeetCode questions solved.
 | [0009-palindrome-number](https://github.com/Manzoor-22/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Manzoor-22/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Manzoor-22/LeetCode/tree/master/0066-plus-one) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Manzoor-22/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Manzoor-22/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Manzoor-22/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/Manzoor-22/LeetCode/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
@@ -322,4 +324,8 @@ Collection of LeetCode questions solved.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Manzoor-22/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Backtracking
+|  |
+| ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/Manzoor-22/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 <!---LeetCode Topics End-->
