@@ -32,6 +32,7 @@ Collection of LeetCode questions solved.
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Manzoor-22/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Manzoor-22/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Manzoor-22/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Manzoor-22/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -350,4 +351,8 @@ Collection of LeetCode questions solved.
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Manzoor-22/LeetCode/tree/master/0948-sort-an-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Manzoor-22/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
