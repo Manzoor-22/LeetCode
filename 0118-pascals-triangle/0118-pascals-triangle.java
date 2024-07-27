@@ -1,25 +1,22 @@
 class Solution {
     public List<List<Integer>> generate(int numRows) {
-        List<List<Integer>> ans = new ArrayList();
+        List<List<Integer>> ans = new LinkedList<>();
 
-        if(numRows <= 0){
-            return ans;
-        }
-
-        ArrayList<Integer> prev = new ArrayList<>();
-        prev.add(1);
-        ans.add(prev);
-
-        for(int i = 2; i <= numRows; i++){
-            ArrayList<Integer> curr = new ArrayList<>();
-            curr.add(1);            
-            for(int j = 0; j < prev.size() - 1; j++){
-                curr.add(prev.get(j) + prev.get(j+1));
+        for(int i = 0; i < numRows; i++){
+            List<Integer> curr = new LinkedList<>();
+            for(int j = 0; j <= i; j++){
+                curr.add(pascal(i,j));
             }
-            curr.add(1);
             ans.add(curr);
-            prev = curr;
         }
+
         return ans;
+    }
+
+    public int pascal(int row, int col){
+        if(col == 0 || row == col){
+            return 1;
+        }
+        return pascal(row-1, col) + pascal(row-1, col-1);
     }
 }
