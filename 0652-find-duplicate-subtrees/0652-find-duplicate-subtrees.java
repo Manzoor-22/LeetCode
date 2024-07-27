@@ -23,7 +23,7 @@ class Solution {
 
     public String helper(TreeNode root, List<TreeNode> ans, HashMap<String, Integer> hm){
         if(root == null){
-            return "N";
+            return "";
         }
         String left = helper(root.left, ans, hm);
         String right = helper(root.right, ans, hm);
