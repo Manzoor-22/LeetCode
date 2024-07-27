@@ -171,6 +171,7 @@ Collection of LeetCode questions solved.
 | [0652-find-duplicate-subtrees](https://github.com/Manzoor-22/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Manzoor-22/LeetCode/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Manzoor-22/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Design
@@ -302,6 +303,7 @@ Collection of LeetCode questions solved.
 | [0652-find-duplicate-subtrees](https://github.com/Manzoor-22/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Manzoor-22/LeetCode/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Manzoor-22/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Binary Tree
@@ -327,6 +329,7 @@ Collection of LeetCode questions solved.
 | [0652-find-duplicate-subtrees](https://github.com/Manzoor-22/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Manzoor-22/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Breadth-First Search
 |  |
@@ -385,4 +388,8 @@ Collection of LeetCode questions solved.
 |  |
 | ------- |
 | [2044-number-of-wonderful-substrings](https://github.com/Manzoor-22/LeetCode/tree/master/2044-number-of-wonderful-substrings) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
