@@ -15,24 +15,26 @@
  */
 class Solution {
     public boolean isValidBST(TreeNode root) {
-        List<Integer> ll = new LinkedList<>();
-        inorder(root,ll);
+        if(root == null){
+            return true;
+        }
 
-        for(int i = 1; i < ll.size(); i++){
-            if(ll.get(i) <= ll.get(i-1)){
+        Stack<TreeNode> stk = new Stack<>();
+        TreeNode prev = null;
+
+        while(root != null || !stk.isEmpty()){
+            while(root != null){
+                stk.push(root);
+                root = root.left;
+            }
+            root = stk.pop();
+            if(prev != null && root.val <= prev.val){
                 return false;
             }
+            prev = root;
+            root = root.right;
         }
 
         return true;
-    }
-
-    public void inorder(TreeNode root, List<Integer> ll){
-        if(root == null){
-            return;
-        }
-        inorder(root.left, ll);
-        ll.add(root.val);
-        inorder(root.right, ll);
     }
 }
