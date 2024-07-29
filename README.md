@@ -95,6 +95,7 @@ Collection of LeetCode questions solved.
 | [1063-best-sightseeing-pair](https://github.com/Manzoor-22/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Manzoor-22/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Manzoor-22/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1511-count-number-of-teams](https://github.com/Manzoor-22/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Manzoor-22/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Manzoor-22/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Manzoor-22/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -198,6 +199,7 @@ Collection of LeetCode questions solved.
 | [0392-is-subsequence](https://github.com/Manzoor-22/LeetCode/tree/master/0392-is-subsequence) |
 | [1063-best-sightseeing-pair](https://github.com/Manzoor-22/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Manzoor-22/LeetCode/tree/master/1296-kth-ancestor-of-a-tree-node) |
+| [1511-count-number-of-teams](https://github.com/Manzoor-22/LeetCode/tree/master/1511-count-number-of-teams) |
 ## Greedy
 |  |
 | ------- |
@@ -419,4 +421,8 @@ Collection of LeetCode questions solved.
 | [0784-insert-into-a-binary-search-tree](https://github.com/Manzoor-22/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0933-increasing-order-search-tree](https://github.com/Manzoor-22/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/Manzoor-22/LeetCode/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
