@@ -15,26 +15,20 @@
  */
 class Solution {
     public boolean isValidBST(TreeNode root) {
+        return isValid(root, null, null);
+    }
+
+    public boolean isValid(TreeNode root, TreeNode min, TreeNode max){
         if(root == null){
             return true;
         }
-
-        Stack<TreeNode> stk = new Stack<>();
-        TreeNode prev = null;
-
-        while(root != null || !stk.isEmpty()){
-            while(root != null){
-                stk.push(root);
-                root = root.left;
-            }
-            root = stk.pop();
-            if(prev != null && root.val <= prev.val){
-                return false;
-            }
-            prev = root;
-            root = root.right;
+        if(min != null && root.val <= min.val){
+            return false;
+        }
+        if(max != null && root.val >= max.val){
+            return false;
         }
 
-        return true;
+        return isValid(root.left, min, root) && isValid(root.right, root, max);
     }
 }
