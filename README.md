@@ -82,6 +82,7 @@ Collection of LeetCode questions solved.
 | [0066-plus-one](https://github.com/Manzoor-22/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Manzoor-22/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Manzoor-22/LeetCode/tree/master/0075-sort-colors) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Manzoor-22/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Manzoor-22/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manzoor-22/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Manzoor-22/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -301,6 +302,7 @@ Collection of LeetCode questions solved.
 | [0102-binary-tree-level-order-traversal](https://github.com/Manzoor-22/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Manzoor-22/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Manzoor-22/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Manzoor-22/LeetCode/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Manzoor-22/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -336,6 +338,7 @@ Collection of LeetCode questions solved.
 | [0102-binary-tree-level-order-traversal](https://github.com/Manzoor-22/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Manzoor-22/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Manzoor-22/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Manzoor-22/LeetCode/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Manzoor-22/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -377,6 +380,7 @@ Collection of LeetCode questions solved.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Manzoor-22/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/Manzoor-22/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Manzoor-22/LeetCode/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
@@ -423,6 +427,7 @@ Collection of LeetCode questions solved.
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Manzoor-22/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Manzoor-22/LeetCode/tree/master/0099-recover-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Manzoor-22/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Manzoor-22/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Manzoor-22/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Manzoor-22/LeetCode/tree/master/0450-delete-node-in-a-bst) |
