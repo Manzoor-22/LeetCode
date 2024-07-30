@@ -15,6 +15,8 @@
  */
 class BSTIterator {
     private Stack<Integer> stack = new Stack<>();
+    int curr = -1;
+    int size = -1;
 
     public BSTIterator(TreeNode root) {
         inOrder(root);
@@ -25,16 +27,18 @@ class BSTIterator {
             return;
         }
         inOrder(root.right);
+        size++;
         stack.push(root.val);
         inOrder(root.left);
     }
     
     public int next() {
+        curr++;
         return stack.pop();
     }
     
     public boolean hasNext() {
-        return !stack.isEmpty();
+        return curr != size;
     }
 }
 
