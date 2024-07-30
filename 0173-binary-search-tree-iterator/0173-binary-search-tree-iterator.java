@@ -1,18 +1,3 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
 class BSTIterator {
     public LinkedList<Integer> ll = new LinkedList<>();
     public int currIdx = -1;
@@ -32,17 +17,10 @@ class BSTIterator {
     
     public int next() {
         currIdx++;
-        return ll.get(currIdx);
+        return ll.remove(0);
     }
     
     public boolean hasNext() {
-        return currIdx < ll.size()-1;
+        return ll.size() > 0;
     }
 }
-
-/**
- * Your BSTIterator object will be instantiated and called as such:
- * BSTIterator obj = new BSTIterator(root);
- * int param_1 = obj.next();
- * boolean param_2 = obj.hasNext();
- */
