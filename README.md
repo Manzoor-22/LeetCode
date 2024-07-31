@@ -185,6 +185,7 @@ Collection of LeetCode questions solved.
 | [0933-increasing-order-search-tree](https://github.com/Manzoor-22/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Manzoor-22/LeetCode/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Manzoor-22/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Design
@@ -212,6 +213,7 @@ Collection of LeetCode questions solved.
 | ------- |
 | [0011-container-with-most-water](https://github.com/Manzoor-22/LeetCode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Manzoor-22/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1285-balance-a-binary-search-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Manzoor-22/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Manzoor-22/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1880-largest-merge-of-two-strings](https://github.com/Manzoor-22/LeetCode/tree/master/1880-largest-merge-of-two-strings) |
@@ -331,6 +333,7 @@ Collection of LeetCode questions solved.
 | [0933-increasing-order-search-tree](https://github.com/Manzoor-22/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Manzoor-22/LeetCode/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Manzoor-22/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Binary Tree
@@ -368,6 +371,7 @@ Collection of LeetCode questions solved.
 | [0933-increasing-order-search-tree](https://github.com/Manzoor-22/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Manzoor-22/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Breadth-First Search
 |  |
@@ -390,6 +394,7 @@ Collection of LeetCode questions solved.
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Manzoor-22/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/Manzoor-22/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Manzoor-22/LeetCode/tree/master/0948-sort-an-array) |
+| [1285-balance-a-binary-search-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -443,6 +448,7 @@ Collection of LeetCode questions solved.
 | [0784-insert-into-a-binary-search-tree](https://github.com/Manzoor-22/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0933-increasing-order-search-tree](https://github.com/Manzoor-22/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Indexed Tree
 |  |
 | ------- |
