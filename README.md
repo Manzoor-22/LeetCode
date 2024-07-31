@@ -183,6 +183,7 @@ Collection of LeetCode questions solved.
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0388-longest-absolute-file-path](https://github.com/Manzoor-22/LeetCode/tree/master/0388-longest-absolute-file-path) |
 | [0543-diameter-of-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Manzoor-22/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Manzoor-22/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -333,6 +334,7 @@ Collection of LeetCode questions solved.
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Manzoor-22/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Manzoor-22/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Manzoor-22/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -373,6 +375,7 @@ Collection of LeetCode questions solved.
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Manzoor-22/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Manzoor-22/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Manzoor-22/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -395,6 +398,7 @@ Collection of LeetCode questions solved.
 | [0199-binary-tree-right-side-view](https://github.com/Manzoor-22/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Manzoor-22/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
