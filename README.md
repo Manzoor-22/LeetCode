@@ -98,6 +98,7 @@ Collection of LeetCode questions solved.
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Manzoor-22/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Manzoor-22/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/Manzoor-22/LeetCode/tree/master/1511-count-number-of-teams) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Manzoor-22/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Manzoor-22/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Manzoor-22/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Manzoor-22/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -120,6 +121,7 @@ Collection of LeetCode questions solved.
 | [0652-find-duplicate-subtrees](https://github.com/Manzoor-22/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0782-jewels-and-stones](https://github.com/Manzoor-22/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Manzoor-22/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Manzoor-22/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2044-number-of-wonderful-substrings](https://github.com/Manzoor-22/LeetCode/tree/master/2044-number-of-wonderful-substrings) |
 | [2427-first-letter-to-appear-twice](https://github.com/Manzoor-22/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
@@ -222,6 +224,7 @@ Collection of LeetCode questions solved.
 | [0628-maximum-product-of-three-numbers](https://github.com/Manzoor-22/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-sort-an-array](https://github.com/Manzoor-22/LeetCode/tree/master/0948-sort-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Manzoor-22/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Manzoor-22/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/Manzoor-22/LeetCode/tree/master/2502-sort-the-people) |
 ## Bit Manipulation
