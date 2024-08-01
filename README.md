@@ -196,6 +196,7 @@ Collection of LeetCode questions solved.
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Manzoor-22/LeetCode/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Manzoor-22/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Manzoor-22/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Design
 |  |
 | ------- |
@@ -215,6 +216,7 @@ Collection of LeetCode questions solved.
 | [0392-is-subsequence](https://github.com/Manzoor-22/LeetCode/tree/master/0392-is-subsequence) |
 | [1063-best-sightseeing-pair](https://github.com/Manzoor-22/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Manzoor-22/LeetCode/tree/master/1296-kth-ancestor-of-a-tree-node) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1511-count-number-of-teams](https://github.com/Manzoor-22/LeetCode/tree/master/1511-count-number-of-teams) |
 ## Greedy
 |  |
@@ -349,6 +351,7 @@ Collection of LeetCode questions solved.
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Manzoor-22/LeetCode/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Manzoor-22/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Manzoor-22/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -389,6 +392,7 @@ Collection of LeetCode questions solved.
 | [1285-balance-a-binary-search-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Manzoor-22/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Manzoor-22/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -469,6 +473,7 @@ Collection of LeetCode questions solved.
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Manzoor-22/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Binary Indexed Tree
 |  |
 | ------- |
