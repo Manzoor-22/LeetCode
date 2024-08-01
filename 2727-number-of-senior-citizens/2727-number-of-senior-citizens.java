@@ -3,7 +3,9 @@ class Solution {
         int count = 0;
 
         for(int i = 0; i < details.length; i++){
-            int age = Integer.parseInt(details[i].substring(11,13));
+            int tens = Character.getNumericValue(details[i].charAt(11));
+            int ones = Character.getNumericValue(details[i].charAt(12));
+            int age = (tens * 10) + ones;
             if(age > 60)
                 count++;
         }
