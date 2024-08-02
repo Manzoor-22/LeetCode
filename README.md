@@ -95,6 +95,7 @@ Collection of LeetCode questions solved.
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Manzoor-22/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Manzoor-22/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0496-next-greater-element-i](https://github.com/Manzoor-22/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0506-relative-ranks](https://github.com/Manzoor-22/LeetCode/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Manzoor-22/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-sort-an-array](https://github.com/Manzoor-22/LeetCode/tree/master/0948-sort-an-array) |
 | [1063-best-sightseeing-pair](https://github.com/Manzoor-22/LeetCode/tree/master/1063-best-sightseeing-pair) |
@@ -240,6 +241,7 @@ Collection of LeetCode questions solved.
 | [0347-top-k-frequent-elements](https://github.com/Manzoor-22/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Manzoor-22/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Manzoor-22/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/Manzoor-22/LeetCode/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Manzoor-22/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-sort-an-array](https://github.com/Manzoor-22/LeetCode/tree/master/0948-sort-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -441,6 +443,7 @@ Collection of LeetCode questions solved.
 | [0347-top-k-frequent-elements](https://github.com/Manzoor-22/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Manzoor-22/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Manzoor-22/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/Manzoor-22/LeetCode/tree/master/0506-relative-ranks) |
 | [0948-sort-an-array](https://github.com/Manzoor-22/LeetCode/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
