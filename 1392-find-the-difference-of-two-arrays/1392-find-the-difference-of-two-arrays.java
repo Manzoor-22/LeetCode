@@ -10,8 +10,9 @@ class Solution {
         }
 
         for(int a : nums1){
-            if(!hm.containsKey(a) && !list.contains(a)){
+            if(!hm.containsKey(a)){
                 list.add(a);
+                hm.put(a, 1);
             }
         }
         ans.add(list);
@@ -24,8 +25,9 @@ class Solution {
         }
 
         for(int b : nums2){
-            if(!hm.containsKey(b) && !list.contains(b)){
+            if(!hm.containsKey(b)){
                 list.add(b);
+                hm.put(b, 1);
             }
         }
         ans.add(list);
