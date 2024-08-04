@@ -212,6 +212,7 @@ Collection of LeetCode questions solved.
 | [0933-increasing-order-search-tree](https://github.com/Manzoor-22/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Manzoor-22/LeetCode/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Manzoor-22/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -379,6 +380,7 @@ Collection of LeetCode questions solved.
 | [0933-increasing-order-search-tree](https://github.com/Manzoor-22/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Manzoor-22/LeetCode/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Manzoor-22/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -423,6 +425,7 @@ Collection of LeetCode questions solved.
 | [0933-increasing-order-search-tree](https://github.com/Manzoor-22/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Manzoor-22/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Manzoor-22/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -444,6 +447,7 @@ Collection of LeetCode questions solved.
 | [0662-maximum-width-of-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Manzoor-22/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Manzoor-22/LeetCode/tree/master/1296-kth-ancestor-of-a-tree-node) |
 ## Divide and Conquer
 |  |
