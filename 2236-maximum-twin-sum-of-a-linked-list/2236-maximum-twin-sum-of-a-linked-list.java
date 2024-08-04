@@ -10,21 +10,31 @@
  */
 class Solution {
     public int pairSum(ListNode head) {
-        ArrayList<Integer> al = new ArrayList<>();
-        ListNode temp = head;
-        while(temp != null){
-            al.add(temp.val);
-            temp = temp.next;
+        ListNode firstHalf = head;
+        ListNode secHalf = head, fast = head;
+
+        //Finding middle -> Second Half
+        while(fast != null && fast.next != null){
+            secHalf = secHalf.next;
+            fast = fast.next.next;
         }
 
-        int i = 0, j = al.size()-1;
-        int maxSum = 0;
+        //Reversing the second half
+        ListNode first = null, second = secHalf, third = secHalf;
+        while(third != null){
+            third = third.next;
+            second.next = first;
+            first = second;
+            second = third;
+        }
+        secHalf = first;
 
-        while(i < j){
-            int pairSum = al.get(i)+al.get(j);
-            maxSum = Math.max(maxSum, pairSum);
-            i++;
-            j--;
+        int maxSum = 0;
+        while(secHalf != null){
+            int currSum = firstHalf.val + secHalf.val;
+            maxSum = Math.max(maxSum, currSum);
+            firstHalf = firstHalf.next;
+            secHalf = secHalf.next;
         }
 
         return maxSum;
