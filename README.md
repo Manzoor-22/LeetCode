@@ -153,6 +153,7 @@ Collection of LeetCode questions solved.
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Manzoor-22/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Manzoor-22/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Manzoor-22/LeetCode/tree/master/0328-odd-even-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Manzoor-22/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -169,6 +170,7 @@ Collection of LeetCode questions solved.
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Manzoor-22/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Manzoor-22/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1880-largest-merge-of-two-strings](https://github.com/Manzoor-22/LeetCode/tree/master/1880-largest-merge-of-two-strings) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Manzoor-22/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Manzoor-22/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Recursion
 |  |
