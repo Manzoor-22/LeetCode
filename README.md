@@ -152,6 +152,7 @@ Collection of LeetCode questions solved.
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Manzoor-22/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Manzoor-22/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Manzoor-22/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/Manzoor-22/LeetCode/tree/master/0328-odd-even-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
