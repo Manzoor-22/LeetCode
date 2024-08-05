@@ -221,6 +221,7 @@ Collection of LeetCode questions solved.
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Manzoor-22/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Manzoor-22/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Design
 |  |
 | ------- |
@@ -390,6 +391,7 @@ Collection of LeetCode questions solved.
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Manzoor-22/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Manzoor-22/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -434,6 +436,7 @@ Collection of LeetCode questions solved.
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Manzoor-22/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Manzoor-22/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -453,6 +456,7 @@ Collection of LeetCode questions solved.
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Manzoor-22/LeetCode/tree/master/1296-kth-ancestor-of-a-tree-node) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
