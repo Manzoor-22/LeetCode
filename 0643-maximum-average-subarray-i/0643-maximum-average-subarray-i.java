@@ -10,10 +10,8 @@ class Solution {
         int i = 0, j = k;
 
         while(j < nums.length){
-            currSum -= nums[i];
-            i++;
-            currSum += nums[j];
-            j++;
+            currSum -= nums[i++];
+            currSum += nums[j++];
             maxSum = Math.max(maxSum, currSum);
         }
 
