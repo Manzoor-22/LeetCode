@@ -28,6 +28,9 @@ class Solution {
             }
             j++;
             maxVow = Math.max(maxVow, vowels);
+            if(maxVow == k){
+                return k;
+            }
         }
 
         return maxVow;
