@@ -89,6 +89,7 @@ Collection of LeetCode questions solved.
 | [0048-rotate-image](https://github.com/Manzoor-22/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Manzoor-22/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Manzoor-22/LeetCode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Manzoor-22/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Manzoor-22/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Manzoor-22/LeetCode/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Manzoor-22/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -128,6 +129,7 @@ Collection of LeetCode questions solved.
 | ------- |
 | [0001-two-sum](https://github.com/Manzoor-22/LeetCode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Manzoor-22/LeetCode/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/Manzoor-22/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/Manzoor-22/LeetCode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Manzoor-22/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Manzoor-22/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -342,6 +344,7 @@ Collection of LeetCode questions solved.
 | ------- |
 | [0048-rotate-image](https://github.com/Manzoor-22/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Manzoor-22/LeetCode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Manzoor-22/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Manzoor-22/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Manzoor-22/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Manzoor-22/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
