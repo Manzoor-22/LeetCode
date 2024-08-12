@@ -323,6 +323,7 @@ Collection of LeetCode questions solved.
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Manzoor-22/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/Manzoor-22/LeetCode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Manzoor-22/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manzoor-22/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/Manzoor-22/LeetCode/tree/master/0222-count-complete-tree-nodes) |
@@ -344,6 +345,7 @@ Collection of LeetCode questions solved.
 | [0048-rotate-image](https://github.com/Manzoor-22/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Manzoor-22/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Manzoor-22/LeetCode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Manzoor-22/LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Manzoor-22/LeetCode/tree/master/0202-happy-number) |
 | [0273-integer-to-english-words](https://github.com/Manzoor-22/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Manzoor-22/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
