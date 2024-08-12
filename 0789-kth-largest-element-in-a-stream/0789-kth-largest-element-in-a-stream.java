@@ -9,10 +9,6 @@ class KthLargest {
         for(int i = 0; i < nums.length; i++){
             pq.add(nums[i]);
         }
-
-        while(pq.size() > k){
-            pq.remove();
-        }
     }
     
     public int add(int val) {
