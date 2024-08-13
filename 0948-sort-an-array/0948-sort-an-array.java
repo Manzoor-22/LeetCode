@@ -1,43 +1,42 @@
 class Solution {
     public int[] sortArray(int[] nums) {
-        mergeSort(nums, 0, nums.length-1);
+        int n = nums.length;
+
+        for(int i = n/2-1; i >= 0; i--){
+            heapify(nums, i, n);
+        }
+
+        for(int i = n-1; i > 0; i--){
+            //swap first and last
+            int temp = nums[0];
+            nums[0] = nums[i];
+            nums[i] = temp;
+
+            heapify(nums, 0, i);
+        }
+
         return nums;
     }
 
-    public void mergeSort(int[] nums, int si, int ei){
-        if(si >= ei){
-            return;
-        }
-        int mid = si + (ei - si) / 2;
-        mergeSort(nums, si, mid);
-        mergeSort(nums, mid+1, ei);
-        merge(nums, si, mid, ei);
-    }
+    public void heapify(int[] nums, int idx, int size){
+        int left = idx*2+1;
+        int right = idx*2+2;
+        int maxIdx = idx;
 
-    public void merge(int[] nums, int si, int mid, int ei){
-        int[] temp = new int[ei-si+1];
-        int i = si, j = mid+1, k = 0;
-
-        while(i <= mid && j <= ei){
-            if(nums[i] < nums[j]){
-                temp[k++] = nums[i];
-                i++;
-            } else{
-                temp[k++] = nums[j];
-                j++;
-            }
+        if(left < size && nums[left] > nums[maxIdx]){
+            maxIdx = left;
         }
 
-        while(i <= mid){
-            temp[k++] = nums[i++];
+        if(right < size && nums[right] > nums[maxIdx]){
+            maxIdx = right;
         }
 
-        while(j <= ei){
-            temp[k++] = nums[j++];
-        }
-
-        for(i = si, k = 0; k < temp.length; i++, k++){
-            nums[i] = temp[k];
+        if(maxIdx != idx){
+            int temp = nums[maxIdx];
+            nums[maxIdx] = nums[idx];
+            nums[idx] = temp;
+            
+            heapify(nums, maxIdx, size);
         }
     }
 }
