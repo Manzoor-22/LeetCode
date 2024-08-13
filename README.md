@@ -135,6 +135,7 @@ Collection of LeetCode questions solved.
 | [0001-two-sum](https://github.com/Manzoor-22/LeetCode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Manzoor-22/LeetCode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Manzoor-22/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0138-copy-list-with-random-pointer](https://github.com/Manzoor-22/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0202-happy-number](https://github.com/Manzoor-22/LeetCode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Manzoor-22/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Manzoor-22/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -170,6 +171,7 @@ Collection of LeetCode questions solved.
 | [0021-merge-two-sorted-lists](https://github.com/Manzoor-22/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Manzoor-22/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Manzoor-22/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/Manzoor-22/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0234-palindrome-linked-list](https://github.com/Manzoor-22/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Manzoor-22/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Manzoor-22/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
