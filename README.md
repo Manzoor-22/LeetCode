@@ -119,6 +119,7 @@ Collection of LeetCode questions solved.
 | [1063-best-sightseeing-pair](https://github.com/Manzoor-22/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Manzoor-22/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Manzoor-22/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Manzoor-22/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Manzoor-22/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/Manzoor-22/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Manzoor-22/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -298,6 +299,7 @@ Collection of LeetCode questions solved.
 | [1014-k-closest-points-to-origin](https://github.com/Manzoor-22/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Manzoor-22/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Manzoor-22/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Manzoor-22/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Manzoor-22/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Manzoor-22/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -341,6 +343,7 @@ Collection of LeetCode questions solved.
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Manzoor-22/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Manzoor-22/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Manzoor-22/LeetCode/tree/master/1296-kth-ancestor-of-a-tree-node) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Manzoor-22/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Manzoor-22/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Manzoor-22/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sliding Window
@@ -377,6 +380,7 @@ Collection of LeetCode questions solved.
 | [0073-set-matrix-zeroes](https://github.com/Manzoor-22/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Manzoor-22/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Manzoor-22/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Manzoor-22/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Manzoor-22/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Manzoor-22/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 ## String Matching
@@ -527,6 +531,7 @@ Collection of LeetCode questions solved.
 | [0789-kth-largest-element-in-a-stream](https://github.com/Manzoor-22/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/Manzoor-22/LeetCode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Manzoor-22/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Manzoor-22/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Bucket Sort
 |  |
 | ------- |
