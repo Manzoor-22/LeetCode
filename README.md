@@ -114,6 +114,7 @@ Collection of LeetCode questions solved.
 | [0628-maximum-product-of-three-numbers](https://github.com/Manzoor-22/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Manzoor-22/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Manzoor-22/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0890-lemonade-change](https://github.com/Manzoor-22/LeetCode/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/Manzoor-22/LeetCode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Manzoor-22/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1063-best-sightseeing-pair](https://github.com/Manzoor-22/LeetCode/tree/master/1063-best-sightseeing-pair) |
@@ -277,6 +278,7 @@ Collection of LeetCode questions solved.
 | [0011-container-with-most-water](https://github.com/Manzoor-22/LeetCode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Manzoor-22/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/Manzoor-22/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0890-lemonade-change](https://github.com/Manzoor-22/LeetCode/tree/master/0890-lemonade-change) |
 | [1285-balance-a-binary-search-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Manzoor-22/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Manzoor-22/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
