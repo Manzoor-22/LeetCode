@@ -273,6 +273,7 @@ Collection of LeetCode questions solved.
 | [0264-ugly-number-ii](https://github.com/Manzoor-22/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Manzoor-22/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0392-is-subsequence](https://github.com/Manzoor-22/LeetCode/tree/master/0392-is-subsequence) |
+| [0650-2-keys-keyboard](https://github.com/Manzoor-22/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [1063-best-sightseeing-pair](https://github.com/Manzoor-22/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Manzoor-22/LeetCode/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -377,6 +378,7 @@ Collection of LeetCode questions solved.
 | [0357-count-numbers-with-unique-digits](https://github.com/Manzoor-22/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Manzoor-22/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Manzoor-22/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0650-2-keys-keyboard](https://github.com/Manzoor-22/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [1014-k-closest-points-to-origin](https://github.com/Manzoor-22/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Manzoor-22/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/Manzoor-22/LeetCode/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
