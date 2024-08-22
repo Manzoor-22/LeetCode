@@ -332,6 +332,7 @@ Collection of LeetCode questions solved.
 | [0222-count-complete-tree-nodes](https://github.com/Manzoor-22/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/Manzoor-22/LeetCode/tree/master/0260-single-number-iii) |
 | [0389-find-the-difference](https://github.com/Manzoor-22/LeetCode/tree/master/0389-find-the-difference) |
+| [0476-number-complement](https://github.com/Manzoor-22/LeetCode/tree/master/0476-number-complement) |
 | [2044-number-of-wonderful-substrings](https://github.com/Manzoor-22/LeetCode/tree/master/2044-number-of-wonderful-substrings) |
 | [2427-first-letter-to-appear-twice](https://github.com/Manzoor-22/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Manzoor-22/LeetCode/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
