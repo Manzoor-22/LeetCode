@@ -35,6 +35,7 @@ Collection of LeetCode questions solved.
 | [0014-longest-common-prefix](https://github.com/Manzoor-22/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Manzoor-22/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Manzoor-22/LeetCode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Manzoor-22/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Manzoor-22/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Manzoor-22/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Manzoor-22/LeetCode/tree/master/0242-valid-anagram) |
@@ -328,6 +329,7 @@ Collection of LeetCode questions solved.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Manzoor-22/LeetCode/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Manzoor-22/LeetCode/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Manzoor-22/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/Manzoor-22/LeetCode/tree/master/0260-single-number-iii) |
@@ -381,6 +383,7 @@ Collection of LeetCode questions solved.
 | [0048-rotate-image](https://github.com/Manzoor-22/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Manzoor-22/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Manzoor-22/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Manzoor-22/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Manzoor-22/LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Manzoor-22/LeetCode/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/Manzoor-22/LeetCode/tree/master/0264-ugly-number-ii) |
@@ -415,6 +418,7 @@ Collection of LeetCode questions solved.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Manzoor-22/LeetCode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Manzoor-22/LeetCode/tree/master/0067-add-binary) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Manzoor-22/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Enumeration
 |  |
