@@ -19,20 +19,19 @@ class Node {
 
 class Solution {
     public List<Integer> postorder(Node root) {
-        List<Integer> ans = new ArrayList<>();
+        List<Integer> ans = new LinkedList<>();
 
-        if(root == null){
-            return ans;
-        }
-
-        helper(root, ans);
+        dfs(root, ans);
 
         return ans;
     }
 
-    public void helper(Node root, List<Integer> ans){
-        for(Node child : root.children){
-            helper(child, ans);
+    public void dfs(Node root, List<Integer> ans){
+        if(root == null){
+            return;
+        }
+        for(int i = 0; i < root.children.size(); i++){
+            dfs(root.children.get(i), ans);
         }
         ans.add(root.val);
     }
