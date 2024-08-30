@@ -1,12 +1,25 @@
 class Solution {
     public String reverseWords(String s) {
-        //trim() used to remove excess spaces
-        //split is used to return words with \\s+
-        String[] words = s.trim().split("\\s+");
-        StringBuilder out = new StringBuilder();
-        for(int i = words.length - 1; i > 0; i--){
-            out.append(words[i] + " ");
+        StringBuilder ans = new StringBuilder();
+        String curr = "";
+
+        for(int i = 0; i < s.length(); i++){
+            if(s.charAt(i) == ' '){
+                if(curr.length() >= 1){
+                    ans.insert(0, " " + curr);
+                }
+                curr = "";
+            }
+            else{
+                curr += s.charAt(i);
+            }
         }
-        return out + words[0];
+        ans.insert(0, curr);
+        
+        while(ans.charAt(0) == ' '){
+            ans.deleteCharAt(0);
+        }
+
+        return ans.toString();
     }
 }
