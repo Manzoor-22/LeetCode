@@ -144,6 +144,7 @@ Collection of LeetCode questions solved.
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Manzoor-22/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Manzoor-22/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Manzoor-22/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Manzoor-22/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Manzoor-22/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Manzoor-22/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2502-sort-the-people](https://github.com/Manzoor-22/LeetCode/tree/master/2502-sort-the-people) |
@@ -433,6 +434,7 @@ Collection of LeetCode questions solved.
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Manzoor-22/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Manzoor-22/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Manzoor-22/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Manzoor-22/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## String Matching
 |  |
 | ------- |
@@ -442,6 +444,7 @@ Collection of LeetCode questions solved.
 | ------- |
 | [0054-spiral-matrix](https://github.com/Manzoor-22/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Manzoor-22/LeetCode/tree/master/0067-add-binary) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Manzoor-22/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Manzoor-22/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Enumeration
 |  |
