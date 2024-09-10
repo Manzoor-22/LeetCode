@@ -68,6 +68,7 @@ Collection of LeetCode questions solved.
 | [2502-sort-the-people](https://github.com/Manzoor-22/LeetCode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Manzoor-22/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Manzoor-22/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3567-convert-date-to-binary](https://github.com/Manzoor-22/LeetCode/tree/master/3567-convert-date-to-binary) |
 ## Stack
 |  |
 | ------- |
@@ -426,6 +427,7 @@ Collection of LeetCode questions solved.
 | [1146-greatest-common-divisor-of-strings](https://github.com/Manzoor-22/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Manzoor-22/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/Manzoor-22/LeetCode/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
+| [3567-convert-date-to-binary](https://github.com/Manzoor-22/LeetCode/tree/master/3567-convert-date-to-binary) |
 ## Randomized
 |  |
 | ------- |
