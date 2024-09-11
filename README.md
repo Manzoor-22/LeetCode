@@ -363,6 +363,7 @@ Collection of LeetCode questions solved.
 | [0389-find-the-difference](https://github.com/Manzoor-22/LeetCode/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/Manzoor-22/LeetCode/tree/master/0476-number-complement) |
 | [2044-number-of-wonderful-substrings](https://github.com/Manzoor-22/LeetCode/tree/master/2044-number-of-wonderful-substrings) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/Manzoor-22/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/Manzoor-22/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Manzoor-22/LeetCode/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 ## Counting
