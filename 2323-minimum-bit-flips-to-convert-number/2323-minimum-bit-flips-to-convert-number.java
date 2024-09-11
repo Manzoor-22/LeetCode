@@ -1,14 +1,14 @@
 class Solution {
     public int minBitFlips(int start, int goal) {
-        String a = Integer.toBinaryString(start);
-        String b = Integer.toBinaryString(goal);
+        StringBuilder a = new StringBuilder(Integer.toBinaryString(start));
+        StringBuilder b = new StringBuilder(Integer.toBinaryString(goal));
 
         while(a.length() < b.length()){
-            a = "0" + a;
+            a.insert(0, "0");
         }
 
         while(b.length() < a.length()){
-            b = "0" + b;
+            b.insert(0, "0");
         }
         
         int ans = 0;
