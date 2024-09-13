@@ -137,6 +137,7 @@ Collection of LeetCode questions solved.
 | [1063-best-sightseeing-pair](https://github.com/Manzoor-22/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Manzoor-22/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Manzoor-22/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Manzoor-22/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Manzoor-22/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Manzoor-22/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/Manzoor-22/LeetCode/tree/master/1511-count-number-of-teams) |
@@ -365,6 +366,7 @@ Collection of LeetCode questions solved.
 | [0268-missing-number](https://github.com/Manzoor-22/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Manzoor-22/LeetCode/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/Manzoor-22/LeetCode/tree/master/0476-number-complement) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Manzoor-22/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Manzoor-22/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2044-number-of-wonderful-substrings](https://github.com/Manzoor-22/LeetCode/tree/master/2044-number-of-wonderful-substrings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Manzoor-22/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -652,6 +654,7 @@ Collection of LeetCode questions solved.
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Manzoor-22/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Manzoor-22/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Manzoor-22/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2044-number-of-wonderful-substrings](https://github.com/Manzoor-22/LeetCode/tree/master/2044-number-of-wonderful-substrings) |
 ## Binary Search Tree
 |  |
