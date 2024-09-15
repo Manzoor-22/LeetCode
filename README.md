@@ -58,6 +58,7 @@ Collection of LeetCode questions solved.
 | [0812-rotate-string](https://github.com/Manzoor-22/LeetCode/tree/master/0812-rotate-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Manzoor-22/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Manzoor-22/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Manzoor-22/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Manzoor-22/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Manzoor-22/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Manzoor-22/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -187,6 +188,7 @@ Collection of LeetCode questions solved.
 | [0782-jewels-and-stones](https://github.com/Manzoor-22/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Manzoor-22/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Manzoor-22/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Manzoor-22/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Manzoor-22/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Manzoor-22/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -368,6 +370,7 @@ Collection of LeetCode questions solved.
 | [0389-find-the-difference](https://github.com/Manzoor-22/LeetCode/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/Manzoor-22/LeetCode/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Manzoor-22/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Manzoor-22/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Manzoor-22/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2044-number-of-wonderful-substrings](https://github.com/Manzoor-22/LeetCode/tree/master/2044-number-of-wonderful-substrings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Manzoor-22/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -657,6 +660,7 @@ Collection of LeetCode questions solved.
 | [0209-minimum-size-subarray-sum](https://github.com/Manzoor-22/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Manzoor-22/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Manzoor-22/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Manzoor-22/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2044-number-of-wonderful-substrings](https://github.com/Manzoor-22/LeetCode/tree/master/2044-number-of-wonderful-substrings) |
 ## Binary Search Tree
 |  |
