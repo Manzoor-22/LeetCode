@@ -130,6 +130,7 @@ Collection of LeetCode questions solved.
 | [0347-top-k-frequent-elements](https://github.com/Manzoor-22/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Manzoor-22/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Manzoor-22/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Manzoor-22/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Manzoor-22/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/Manzoor-22/LeetCode/tree/master/0506-relative-ranks) |
 | [0539-minimum-time-difference](https://github.com/Manzoor-22/LeetCode/tree/master/0539-minimum-time-difference) |
@@ -186,6 +187,7 @@ Collection of LeetCode questions solved.
 | [0383-ransom-note](https://github.com/Manzoor-22/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manzoor-22/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Manzoor-22/LeetCode/tree/master/0389-find-the-difference) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Manzoor-22/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Manzoor-22/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Manzoor-22/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0652-find-duplicate-subtrees](https://github.com/Manzoor-22/LeetCode/tree/master/0652-find-duplicate-subtrees) |
