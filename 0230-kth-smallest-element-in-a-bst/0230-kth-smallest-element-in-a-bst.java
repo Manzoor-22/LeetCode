@@ -19,9 +19,6 @@ class Solution {
 
         preorder(root, k, pq);
 
-        while(pq.size() != k)
-            pq.poll();
-
         return pq.peek();
     }
     public void preorder(TreeNode root, int k, PriorityQueue<Integer> pq){
@@ -29,6 +26,8 @@ class Solution {
             return;
         }
         pq.add(root.val);
+        if(pq.size() > k)
+            pq.poll();
         preorder(root.left, k, pq);
         preorder(root.right, k, pq);
     }
