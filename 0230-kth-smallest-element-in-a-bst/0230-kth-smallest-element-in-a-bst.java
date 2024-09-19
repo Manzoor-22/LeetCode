@@ -15,19 +15,21 @@
  */
 class Solution {
     public int kthSmallest(TreeNode root, int k) {
-        List<Integer> path = new LinkedList<>();
+        PriorityQueue<Integer> pq = new PriorityQueue<>(Comparator.reverseOrder());
 
-        getPath(root, path);
+        preorder(root, k, pq);
 
-        return path.get(k-1);
+        while(pq.size() != k)
+            pq.poll();
+
+        return pq.peek();
     }
-
-    public void getPath(TreeNode root, List<Integer> path){
+    public void preorder(TreeNode root, int k, PriorityQueue<Integer> pq){
         if(root == null){
             return;
         }
-        getPath(root.left, path);
-        path.add(root.val);
-        getPath(root.right, path);
+        pq.add(root.val);
+        preorder(root.left, k, pq);
+        preorder(root.right, k, pq);
     }
 }
