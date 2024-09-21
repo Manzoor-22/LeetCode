@@ -278,6 +278,7 @@ Collection of LeetCode questions solved.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Manzoor-22/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/Manzoor-22/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0388-longest-absolute-file-path](https://github.com/Manzoor-22/LeetCode/tree/master/0388-longest-absolute-file-path) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Manzoor-22/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -667,6 +668,7 @@ Collection of LeetCode questions solved.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Manzoor-22/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/Manzoor-22/LeetCode/tree/master/0386-lexicographical-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
