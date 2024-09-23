@@ -72,6 +72,7 @@ Collection of LeetCode questions solved.
 | [2427-first-letter-to-appear-twice](https://github.com/Manzoor-22/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2502-sort-the-people](https://github.com/Manzoor-22/LeetCode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Manzoor-22/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [2755-extra-characters-in-a-string](https://github.com/Manzoor-22/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Manzoor-22/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3567-convert-date-to-binary](https://github.com/Manzoor-22/LeetCode/tree/master/3567-convert-date-to-binary) |
 ## Stack
@@ -164,6 +165,7 @@ Collection of LeetCode questions solved.
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Manzoor-22/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Manzoor-22/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2727-number-of-senior-citizens](https://github.com/Manzoor-22/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [2755-extra-characters-in-a-string](https://github.com/Manzoor-22/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Manzoor-22/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Hash Table
 |  |
@@ -205,6 +207,7 @@ Collection of LeetCode questions solved.
 | [2163-kth-distinct-string-in-an-array](https://github.com/Manzoor-22/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/Manzoor-22/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2502-sort-the-people](https://github.com/Manzoor-22/LeetCode/tree/master/2502-sort-the-people) |
+| [2755-extra-characters-in-a-string](https://github.com/Manzoor-22/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Manzoor-22/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Manzoor-22/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Monotonic Stack
@@ -327,6 +330,7 @@ Collection of LeetCode questions solved.
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1511-count-number-of-teams](https://github.com/Manzoor-22/LeetCode/tree/master/1511-count-number-of-teams) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Manzoor-22/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2755-extra-characters-in-a-string](https://github.com/Manzoor-22/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -669,6 +673,7 @@ Collection of LeetCode questions solved.
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Manzoor-22/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/Manzoor-22/LeetCode/tree/master/0386-lexicographical-numbers) |
+| [2755-extra-characters-in-a-string](https://github.com/Manzoor-22/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
