@@ -452,6 +452,7 @@ Collection of LeetCode questions solved.
 | [0066-plus-one](https://github.com/Manzoor-22/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Manzoor-22/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Manzoor-22/LeetCode/tree/master/0069-sqrtx) |
+| [0172-factorial-trailing-zeroes](https://github.com/Manzoor-22/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Manzoor-22/LeetCode/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/Manzoor-22/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Manzoor-22/LeetCode/tree/master/0268-missing-number) |
