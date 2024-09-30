@@ -3,7 +3,7 @@ class CustomStack {
     final int size;
 
     public CustomStack(int maxSize) {
-        ll = new LinkedList<>();
+        ll = new ArrayList<>();
         size = maxSize;
     }
     
