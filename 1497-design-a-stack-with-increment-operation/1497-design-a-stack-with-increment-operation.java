@@ -1,24 +1,24 @@
 class CustomStack {
-    List<Integer> ll;
-    final int size;
+    int[] stack;
+    int top = -1;
 
     public CustomStack(int maxSize) {
-        ll = new ArrayList<>();
-        size = maxSize;
+        stack = new int[maxSize];
     }
     
     public void push(int x) {
-        if(ll.size() < size)
-            ll.addLast(x);
+        if(top < stack.length-1){
+            stack[++top] = x;
+        }
     }
     
     public int pop() {
-        return ll.isEmpty() ? -1 : ll.removeLast();
+        return top == -1 ? -1 : stack[top--];
     }
     
     public void increment(int k, int val) {
-        for(int i = 0; i < k && i < ll.size(); i++){
-            ll.set(i, ll.get(i) + val);
+        for(int i = 0; i < k && i < top+1; i++){
+            stack[i] += val;
         }
     }
 }
