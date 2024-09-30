@@ -9,7 +9,7 @@ class CustomStack {
     
     public void push(int x) {
         if(ll.size() < size)
-        ll.addLast(x);
+            ll.addLast(x);
     }
     
     public int pop() {
