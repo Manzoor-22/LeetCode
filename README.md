@@ -95,6 +95,7 @@ Collection of LeetCode questions solved.
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Manzoor-22/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/Manzoor-22/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Manzoor-22/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Manzoor-22/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Manzoor-22/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Manzoor-22/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Array
@@ -150,6 +151,7 @@ Collection of LeetCode questions solved.
 | [1435-xor-queries-of-a-subarray](https://github.com/Manzoor-22/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Manzoor-22/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Manzoor-22/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Manzoor-22/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1511-count-number-of-teams](https://github.com/Manzoor-22/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Manzoor-22/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Manzoor-22/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -319,6 +321,7 @@ Collection of LeetCode questions solved.
 | [0731-my-calendar-ii](https://github.com/Manzoor-22/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Manzoor-22/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Manzoor-22/LeetCode/tree/master/1296-kth-ancestor-of-a-tree-node) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Manzoor-22/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Dynamic Programming
 |  |
 | ------- |
