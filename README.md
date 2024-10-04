@@ -169,6 +169,7 @@ Collection of LeetCode questions solved.
 | [2411-spiral-matrix-iv](https://github.com/Manzoor-22/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2502-sort-the-people](https://github.com/Manzoor-22/LeetCode/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Manzoor-22/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Manzoor-22/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Manzoor-22/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2727-number-of-senior-citizens](https://github.com/Manzoor-22/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/Manzoor-22/LeetCode/tree/master/2755-extra-characters-in-a-string) |
@@ -217,6 +218,7 @@ Collection of LeetCode questions solved.
 | [2163-kth-distinct-string-in-an-array](https://github.com/Manzoor-22/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/Manzoor-22/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2502-sort-the-people](https://github.com/Manzoor-22/LeetCode/tree/master/2502-sort-the-people) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Manzoor-22/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/Manzoor-22/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Manzoor-22/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Manzoor-22/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -265,6 +267,7 @@ Collection of LeetCode questions solved.
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Manzoor-22/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Manzoor-22/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Manzoor-22/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Manzoor-22/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Recursion
 |  |
 | ------- |
@@ -388,6 +391,7 @@ Collection of LeetCode questions solved.
 | [1741-sort-array-by-increasing-frequency](https://github.com/Manzoor-22/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Manzoor-22/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2502-sort-the-people](https://github.com/Manzoor-22/LeetCode/tree/master/2502-sort-the-people) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Manzoor-22/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Manzoor-22/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Bit Manipulation
 |  |
