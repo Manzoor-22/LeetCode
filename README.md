@@ -56,6 +56,7 @@ Collection of LeetCode questions solved.
 | [0451-sort-characters-by-frequency](https://github.com/Manzoor-22/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/Manzoor-22/LeetCode/tree/master/0520-detect-capital) |
 | [0539-minimum-time-difference](https://github.com/Manzoor-22/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0567-permutation-in-string](https://github.com/Manzoor-22/LeetCode/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Manzoor-22/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0782-jewels-and-stones](https://github.com/Manzoor-22/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/Manzoor-22/LeetCode/tree/master/0812-rotate-string) |
@@ -200,6 +201,7 @@ Collection of LeetCode questions solved.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Manzoor-22/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Manzoor-22/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Manzoor-22/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/Manzoor-22/LeetCode/tree/master/0567-permutation-in-string) |
 | [0652-find-duplicate-subtrees](https://github.com/Manzoor-22/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Manzoor-22/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/Manzoor-22/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -259,6 +261,7 @@ Collection of LeetCode questions solved.
 | [0234-palindrome-linked-list](https://github.com/Manzoor-22/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Manzoor-22/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Manzoor-22/LeetCode/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/Manzoor-22/LeetCode/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Manzoor-22/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Manzoor-22/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Manzoor-22/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -456,6 +459,7 @@ Collection of LeetCode questions solved.
 | [0209-minimum-size-subarray-sum](https://github.com/Manzoor-22/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Manzoor-22/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Manzoor-22/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0567-permutation-in-string](https://github.com/Manzoor-22/LeetCode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Manzoor-22/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Manzoor-22/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Math
