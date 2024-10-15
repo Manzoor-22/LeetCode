@@ -77,6 +77,7 @@ Collection of LeetCode questions solved.
 | [2502-sort-the-people](https://github.com/Manzoor-22/LeetCode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Manzoor-22/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/Manzoor-22/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [3195-separate-black-and-white-balls](https://github.com/Manzoor-22/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Manzoor-22/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3567-convert-date-to-binary](https://github.com/Manzoor-22/LeetCode/tree/master/3567-convert-date-to-binary) |
 ## Stack
@@ -277,6 +278,7 @@ Collection of LeetCode questions solved.
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Manzoor-22/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Manzoor-22/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Manzoor-22/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3195-separate-black-and-white-balls](https://github.com/Manzoor-22/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Recursion
 |  |
 | ------- |
@@ -372,6 +374,7 @@ Collection of LeetCode questions solved.
 | [1818-maximum-score-from-removing-substrings](https://github.com/Manzoor-22/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1880-largest-merge-of-two-strings](https://github.com/Manzoor-22/LeetCode/tree/master/1880-largest-merge-of-two-strings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Manzoor-22/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [3195-separate-black-and-white-balls](https://github.com/Manzoor-22/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Manzoor-22/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
