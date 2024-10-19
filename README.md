@@ -66,6 +66,7 @@ Collection of LeetCode questions solved.
 | [1146-greatest-common-divisor-of-strings](https://github.com/Manzoor-22/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Manzoor-22/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Manzoor-22/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Manzoor-22/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Manzoor-22/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Manzoor-22/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Manzoor-22/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -286,6 +287,7 @@ Collection of LeetCode questions solved.
 | [0050-powx-n](https://github.com/Manzoor-22/LeetCode/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/Manzoor-22/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/Manzoor-22/LeetCode/tree/master/0273-integer-to-english-words) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Manzoor-22/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -524,6 +526,7 @@ Collection of LeetCode questions solved.
 | ------- |
 | [0054-spiral-matrix](https://github.com/Manzoor-22/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Manzoor-22/LeetCode/tree/master/0067-add-binary) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Manzoor-22/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Manzoor-22/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Manzoor-22/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2411-spiral-matrix-iv](https://github.com/Manzoor-22/LeetCode/tree/master/2411-spiral-matrix-iv) |
