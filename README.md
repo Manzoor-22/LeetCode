@@ -67,6 +67,7 @@ Collection of LeetCode questions solved.
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Manzoor-22/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Manzoor-22/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Manzoor-22/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Manzoor-22/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Manzoor-22/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Manzoor-22/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Manzoor-22/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -219,6 +220,7 @@ Collection of LeetCode questions solved.
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Manzoor-22/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Manzoor-22/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Manzoor-22/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Manzoor-22/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Manzoor-22/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Manzoor-22/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Manzoor-22/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -699,6 +701,7 @@ Collection of LeetCode questions solved.
 | [0040-combination-sum-ii](https://github.com/Manzoor-22/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Manzoor-22/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Manzoor-22/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Manzoor-22/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Merge Sort
 |  |
 | ------- |
