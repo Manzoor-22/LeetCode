@@ -332,6 +332,7 @@ Collection of LeetCode questions solved.
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2121-find-if-path-exists-in-graph](https://github.com/Manzoor-22/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Design
 |  |
 | ------- |
@@ -657,6 +658,7 @@ Collection of LeetCode questions solved.
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Manzoor-22/LeetCode/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1484-linked-list-in-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2121-find-if-path-exists-in-graph](https://github.com/Manzoor-22/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Divide and Conquer
 |  |
@@ -784,6 +786,7 @@ Collection of LeetCode questions solved.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Manzoor-22/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [2121-find-if-path-exists-in-graph](https://github.com/Manzoor-22/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Brainteaser
 |  |
 | ------- |
@@ -800,4 +803,8 @@ Collection of LeetCode questions solved.
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/Manzoor-22/LeetCode/tree/master/0432-all-oone-data-structure) |
+## Graph
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/Manzoor-22/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
