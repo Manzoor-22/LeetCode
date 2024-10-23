@@ -229,6 +229,7 @@ Collection of LeetCode questions solved.
 | [2427-first-letter-to-appear-twice](https://github.com/Manzoor-22/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2502-sort-the-people](https://github.com/Manzoor-22/LeetCode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Manzoor-22/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/Manzoor-22/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2755-extra-characters-in-a-string](https://github.com/Manzoor-22/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Manzoor-22/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Manzoor-22/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -333,6 +334,7 @@ Collection of LeetCode questions solved.
 | [1484-linked-list-in-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Manzoor-22/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/Manzoor-22/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Design
 |  |
 | ------- |
@@ -589,6 +591,7 @@ Collection of LeetCode questions solved.
 | [1484-linked-list-in-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/Manzoor-22/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -637,6 +640,7 @@ Collection of LeetCode questions solved.
 | [1484-linked-list-in-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/Manzoor-22/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -660,6 +664,7 @@ Collection of LeetCode questions solved.
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Manzoor-22/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/Manzoor-22/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
