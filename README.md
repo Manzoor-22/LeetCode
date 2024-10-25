@@ -64,6 +64,7 @@ Collection of LeetCode questions solved.
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Manzoor-22/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Manzoor-22/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Manzoor-22/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Manzoor-22/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Manzoor-22/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Manzoor-22/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Manzoor-22/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -155,6 +156,7 @@ Collection of LeetCode questions solved.
 | [1014-k-closest-points-to-origin](https://github.com/Manzoor-22/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1063-best-sightseeing-pair](https://github.com/Manzoor-22/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Manzoor-22/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Manzoor-22/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Manzoor-22/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Manzoor-22/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Manzoor-22/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -329,6 +331,7 @@ Collection of LeetCode questions solved.
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Manzoor-22/LeetCode/tree/master/1296-kth-ancestor-of-a-tree-node) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Manzoor-22/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Manzoor-22/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Manzoor-22/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -734,6 +737,7 @@ Collection of LeetCode questions solved.
 | [0014-longest-common-prefix](https://github.com/Manzoor-22/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/Manzoor-22/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Manzoor-22/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Manzoor-22/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2755-extra-characters-in-a-string](https://github.com/Manzoor-22/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 ## Prefix Sum
 |  |
