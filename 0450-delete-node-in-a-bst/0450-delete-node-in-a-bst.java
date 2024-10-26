@@ -18,10 +18,10 @@ class Solution {
         if(root == null){
             return null;
         }
-        if(key < root.val){
+        if(root.val > key){
             root.left = deleteNode(root.left, key);
         }
-        if(key > root.val){
+        if(root.val < key){
             root.right = deleteNode(root.right, key);
         }
         if(root.val == key){
@@ -34,20 +34,18 @@ class Solution {
             if(root.right == null){
                 return root.left;
             }
-
-            TreeNode IS = inOrderSuccessor(root.right);
+            TreeNode IS = inorderSuccessor(root.right);
             root.val = IS.val;
             root.right = deleteNode(root.right, IS.val);
-        }
+        }   
 
         return root;
     }
 
-    public TreeNode inOrderSuccessor(TreeNode root){
+    public TreeNode inorderSuccessor(TreeNode root){
         while(root.left != null){
             root = root.left;
         }
-
         return root;
     }
 }
