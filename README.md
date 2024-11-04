@@ -121,6 +121,7 @@ Collection of LeetCode questions solved.
 | [0048-rotate-image](https://github.com/Manzoor-22/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Manzoor-22/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Manzoor-22/LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Manzoor-22/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Manzoor-22/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Manzoor-22/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Manzoor-22/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -357,6 +358,7 @@ Collection of LeetCode questions solved.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Manzoor-22/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Manzoor-22/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/Manzoor-22/LeetCode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Manzoor-22/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manzoor-22/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Manzoor-22/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -376,6 +378,7 @@ Collection of LeetCode questions solved.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Manzoor-22/LeetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Manzoor-22/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Manzoor-22/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/Manzoor-22/LeetCode/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/Manzoor-22/LeetCode/tree/master/0316-remove-duplicate-letters) |
