@@ -4,6 +4,13 @@ class Solution {
             return n;
         }
 
-        return fib(n-1) + fib(n-2);
+        int[] seq = new int[n+1];
+        seq[1] = 1;
+
+        for(int i = 2; i <= n; i++){
+            seq[i] = seq[i-1] + seq[i-2];
+        }
+
+        return seq[n];
     }
 }
