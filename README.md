@@ -363,6 +363,7 @@ Collection of LeetCode questions solved.
 | [0005-longest-palindromic-substring](https://github.com/Manzoor-22/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Manzoor-22/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Manzoor-22/LeetCode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Manzoor-22/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Manzoor-22/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manzoor-22/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Manzoor-22/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -508,6 +509,7 @@ Collection of LeetCode questions solved.
 | [0066-plus-one](https://github.com/Manzoor-22/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Manzoor-22/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Manzoor-22/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Manzoor-22/LeetCode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Manzoor-22/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Manzoor-22/LeetCode/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/Manzoor-22/LeetCode/tree/master/0264-ugly-number-ii) |
@@ -838,5 +840,6 @@ Collection of LeetCode questions solved.
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Manzoor-22/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Manzoor-22/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
