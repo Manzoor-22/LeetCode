@@ -33,6 +33,7 @@ Collection of LeetCode questions solved.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Manzoor-22/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/Manzoor-22/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Manzoor-22/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Manzoor-22/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Manzoor-22/LeetCode/tree/master/0020-valid-parentheses) |
@@ -191,6 +192,7 @@ Collection of LeetCode questions solved.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Manzoor-22/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Manzoor-22/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Manzoor-22/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Manzoor-22/LeetCode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Manzoor-22/LeetCode/tree/master/0041-first-missing-positive) |
@@ -504,6 +506,7 @@ Collection of LeetCode questions solved.
 | ------- |
 | [0007-reverse-integer](https://github.com/Manzoor-22/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Manzoor-22/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Manzoor-22/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Manzoor-22/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Manzoor-22/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Manzoor-22/LeetCode/tree/master/0066-plus-one) |
