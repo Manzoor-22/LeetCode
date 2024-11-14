@@ -145,6 +145,7 @@ Collection of LeetCode questions solved.
 | [0239-sliding-window-maximum](https://github.com/Manzoor-22/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/Manzoor-22/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Manzoor-22/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Manzoor-22/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Manzoor-22/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Manzoor-22/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Manzoor-22/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -282,6 +283,7 @@ Collection of LeetCode questions solved.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manzoor-22/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Manzoor-22/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Manzoor-22/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/Manzoor-22/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Manzoor-22/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Manzoor-22/LeetCode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Manzoor-22/LeetCode/tree/master/0567-permutation-in-string) |
@@ -446,6 +448,7 @@ Collection of LeetCode questions solved.
 | [0222-count-complete-tree-nodes](https://github.com/Manzoor-22/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/Manzoor-22/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Manzoor-22/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Manzoor-22/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Manzoor-22/LeetCode/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/Manzoor-22/LeetCode/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Manzoor-22/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
@@ -489,6 +492,7 @@ Collection of LeetCode questions solved.
 | [0209-minimum-size-subarray-sum](https://github.com/Manzoor-22/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Manzoor-22/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Manzoor-22/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Manzoor-22/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Manzoor-22/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Manzoor-22/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Manzoor-22/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
