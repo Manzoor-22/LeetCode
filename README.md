@@ -130,6 +130,7 @@ Collection of LeetCode questions solved.
 | [0073-set-matrix-zeroes](https://github.com/Manzoor-22/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Manzoor-22/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Manzoor-22/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Manzoor-22/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Manzoor-22/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Manzoor-22/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manzoor-22/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -278,6 +279,7 @@ Collection of LeetCode questions solved.
 | [0015-3sum](https://github.com/Manzoor-22/LeetCode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Manzoor-22/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Manzoor-22/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Manzoor-22/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Manzoor-22/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Manzoor-22/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manzoor-22/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -412,6 +414,7 @@ Collection of LeetCode questions solved.
 | [0015-3sum](https://github.com/Manzoor-22/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Manzoor-22/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Manzoor-22/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Manzoor-22/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Manzoor-22/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Manzoor-22/LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Manzoor-22/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
