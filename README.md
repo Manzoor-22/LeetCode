@@ -156,6 +156,7 @@ Collection of LeetCode questions solved.
 | [0496-next-greater-element-i](https://github.com/Manzoor-22/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/Manzoor-22/LeetCode/tree/master/0506-relative-ranks) |
 | [0539-minimum-time-difference](https://github.com/Manzoor-22/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0560-subarray-sum-equals-k](https://github.com/Manzoor-22/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/Manzoor-22/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Manzoor-22/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Manzoor-22/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -224,6 +225,7 @@ Collection of LeetCode questions solved.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Manzoor-22/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Manzoor-22/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Manzoor-22/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Manzoor-22/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Manzoor-22/LeetCode/tree/master/0567-permutation-in-string) |
 | [0652-find-duplicate-subtrees](https://github.com/Manzoor-22/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Manzoor-22/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -782,6 +784,7 @@ Collection of LeetCode questions solved.
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Manzoor-22/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Manzoor-22/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Manzoor-22/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/Manzoor-22/LeetCode/tree/master/0731-my-calendar-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Manzoor-22/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Manzoor-22/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
