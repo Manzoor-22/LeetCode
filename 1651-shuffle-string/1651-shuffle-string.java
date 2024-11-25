@@ -1,15 +1,12 @@
 class Solution {
     public String restoreString(String s, int[] indices) {
-        StringBuilder ans = new StringBuilder();
-        
-        for(int i = 0; i < indices.length; i++){
-            ans.append('*');
+        int n = s.length();
+        char[] ans = new char[n];
+
+        for(int i = 0; i < n; i++){
+            ans[indices[i]] = s.charAt(i);
         }
 
-        for(int i = 0; i < s.length(); i++){
-            ans.setCharAt(indices[i], s.charAt(i));
-        }
-
-        return ans.toString();
+        return new String(ans);
     }
 }
