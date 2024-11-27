@@ -204,6 +204,7 @@ Collection of LeetCode questions solved.
 | [2727-number-of-senior-citizens](https://github.com/Manzoor-22/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/Manzoor-22/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Manzoor-22/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Manzoor-22/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -724,6 +725,7 @@ Collection of LeetCode questions solved.
 | [2121-find-if-path-exists-in-graph](https://github.com/Manzoor-22/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Manzoor-22/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Manzoor-22/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -876,6 +878,7 @@ Collection of LeetCode questions solved.
 |  |
 | ------- |
 | [2121-find-if-path-exists-in-graph](https://github.com/Manzoor-22/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Manzoor-22/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Memoization
 |  |
 | ------- |
