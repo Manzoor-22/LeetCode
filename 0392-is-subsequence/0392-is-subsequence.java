@@ -1,14 +1,22 @@
 class Solution {
     public boolean isSubsequence(String s, String t) {
-        int sp = 0, tp = 0;
-
-        while(sp < s.length() && tp < t.length()){
-            if(s.charAt(sp) == t.charAt(tp)){
-                sp++;
+        int lastIdx = 0;
+        for(int i = 0; i < s.length(); i++){
+            int first = s.charAt(i);
+            boolean isFound = false;
+            for(int j = lastIdx; j < t.length(); j++){
+                if(first == t.charAt(j)){
+                    isFound = true;
+                    lastIdx = j+1;
+                    break;
+                }
             }
-            tp++;
+
+            if(!isFound){
+                return false;
+            }
         }
 
-        return sp == s.length();
+        return true;
     }
 }
