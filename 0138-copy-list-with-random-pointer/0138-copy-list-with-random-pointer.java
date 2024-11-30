@@ -18,15 +18,17 @@ class Solution {
         if(head == null){
             return null;
         }
-        HashMap<Node,Node> hm = new HashMap<>();
 
         Node temp = head;
+        HashMap<Node, Node> hm = new HashMap<>();
+
         while(temp != null){
             hm.put(temp, new Node(temp.val));
             temp = temp.next;
         }
 
         temp = head;
+
         while(temp != null){
             hm.get(temp).next = hm.get(temp.next);
             hm.get(temp).random = hm.get(temp.random);
