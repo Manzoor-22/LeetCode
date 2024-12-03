@@ -3,17 +3,23 @@ class Solution {
         Stack<Character> stk = new Stack<>();
 
         for(char c : s.toCharArray()){
-            if(c == '(')
+            if(c == '('){
                 stk.push(')');
-            else if(c == '{')
+            }
+            else if(c == '{'){
                 stk.push('}');
-            else if(c == '[')
+            }
+            else if(c == '['){
                 stk.push(']');
-
-            else if(stk.isEmpty() || stk.pop() != c){
+            }
+            else if(!stk.isEmpty() && stk.peek() == c){
+                stk.pop();
+            }
+            else{
                 return false;
             }
         }
+
         return stk.isEmpty();
     }
 }
