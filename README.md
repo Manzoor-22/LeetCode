@@ -282,6 +282,7 @@ Collection of LeetCode questions solved.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Manzoor-22/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/Manzoor-22/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0092-reverse-linked-list-ii](https://github.com/Manzoor-22/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Manzoor-22/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Manzoor-22/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -333,6 +334,7 @@ Collection of LeetCode questions solved.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Manzoor-22/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/Manzoor-22/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Manzoor-22/LeetCode/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/Manzoor-22/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/Manzoor-22/LeetCode/tree/master/0273-integer-to-english-words) |
