@@ -912,4 +912,8 @@ Collection of LeetCode questions solved.
 | ------- |
 | [0070-climbing-stairs](https://github.com/Manzoor-22/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Manzoor-22/LeetCode/tree/master/1013-fibonacci-number) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/Manzoor-22/LeetCode/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
