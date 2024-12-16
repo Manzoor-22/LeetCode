@@ -213,6 +213,7 @@ Collection of LeetCode questions solved.
 | [2755-extra-characters-in-a-string](https://github.com/Manzoor-22/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Manzoor-22/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Manzoor-22/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Manzoor-22/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -588,6 +589,7 @@ Collection of LeetCode questions solved.
 | [1146-greatest-common-divisor-of-strings](https://github.com/Manzoor-22/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Manzoor-22/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/Manzoor-22/LeetCode/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Manzoor-22/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3567-convert-date-to-binary](https://github.com/Manzoor-22/LeetCode/tree/master/3567-convert-date-to-binary) |
 ## Randomized
 |  |
@@ -621,6 +623,7 @@ Collection of LeetCode questions solved.
 | [2132-convert-1d-array-into-2d-array](https://github.com/Manzoor-22/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Manzoor-22/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2411-spiral-matrix-iv](https://github.com/Manzoor-22/LeetCode/tree/master/2411-spiral-matrix-iv) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Manzoor-22/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -784,6 +787,7 @@ Collection of LeetCode questions solved.
 | [1014-k-closest-points-to-origin](https://github.com/Manzoor-22/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Manzoor-22/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2164-two-best-non-overlapping-events](https://github.com/Manzoor-22/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Manzoor-22/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Bucket Sort
 |  |
 | ------- |
