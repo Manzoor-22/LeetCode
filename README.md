@@ -963,6 +963,7 @@ Collection of LeetCode questions solved.
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Manzoor-22/LeetCode/tree/master/0175-combine-two-tables) |
+| [0176-second-highest-salary](https://github.com/Manzoor-22/LeetCode/tree/master/0176-second-highest-salary) |
 | [0197-rising-temperature](https://github.com/Manzoor-22/LeetCode/tree/master/0197-rising-temperature) |
 | [1801-average-time-of-process-per-machine](https://github.com/Manzoor-22/LeetCode/tree/master/1801-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
