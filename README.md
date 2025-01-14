@@ -228,6 +228,7 @@ Collection of LeetCode questions solved.
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Manzoor-22/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2727-number-of-senior-citizens](https://github.com/Manzoor-22/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/Manzoor-22/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Manzoor-22/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Manzoor-22/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Manzoor-22/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Manzoor-22/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -295,6 +296,7 @@ Collection of LeetCode questions solved.
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Manzoor-22/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Manzoor-22/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2755-extra-characters-in-a-string](https://github.com/Manzoor-22/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Manzoor-22/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Manzoor-22/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Manzoor-22/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Manzoor-22/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -538,6 +540,7 @@ Collection of LeetCode questions solved.
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Manzoor-22/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2427-first-letter-to-appear-twice](https://github.com/Manzoor-22/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Manzoor-22/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Manzoor-22/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Manzoor-22/LeetCode/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 ## Counting
 |  |
