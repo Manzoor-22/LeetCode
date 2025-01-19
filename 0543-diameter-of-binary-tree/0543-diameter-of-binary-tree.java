@@ -18,23 +18,30 @@ class Solution {
         if(root == null){
             return 0;
         }
-        int leftTree = diameterOfBinaryTree(root.left);
-        int rightTree = diameterOfBinaryTree(root.right);
-        int leftH = height(root.left);
-        int rightH = height(root.right);
-        
-        int max = Math.max(Math.max(leftTree, rightTree), leftH+rightH);
 
-        return max;
+        int lHeight = height(root.left);
+        int rHeight = height(root.right);
+        int lTree = diameterOfBinaryTree(root.left);
+        int rTree = diameterOfBinaryTree(root.right);
+
+        return Math.max(Math.max(lTree, rTree), lHeight+rHeight);
     }
 
     public int height(TreeNode root){
         if(root == null){
             return 0;
         }
-        int leftH = height(root.left);
-        int rightH = height(root.right);
 
-        return Math.max(leftH, rightH)+1;
+        int left = 0, right = 0;
+
+        if(root.left != null){
+            left = height(root.left);
+        }
+
+        if(root.right != null){
+            right = height(root.right);
+        }
+
+        return 1+Math.max(left, right);
     }
 }
