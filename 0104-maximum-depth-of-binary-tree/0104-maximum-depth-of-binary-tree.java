@@ -18,9 +18,17 @@ class Solution {
         if(root == null){
             return 0;
         }
-        int leftH = maxDepth(root.left);
-        int rightH = maxDepth(root.right);
 
-        return Math.max(leftH, rightH)+1;
+        int left = 0, right = 0;
+
+        if(root.left != null){
+            left = maxDepth(root.left);
+        }
+
+        if(root.right != null){
+            right = maxDepth(root.right);
+        }
+
+        return 1+Math.max(left, right);
     }
 }
