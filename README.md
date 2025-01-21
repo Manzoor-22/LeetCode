@@ -215,6 +215,7 @@ Collection of LeetCode questions solved.
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Manzoor-22/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Manzoor-22/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Manzoor-22/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2145-grid-game](https://github.com/Manzoor-22/LeetCode/tree/master/2145-grid-game) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Manzoor-22/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/Manzoor-22/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Manzoor-22/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -652,6 +653,7 @@ Collection of LeetCode questions solved.
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Manzoor-22/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Manzoor-22/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Manzoor-22/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2145-grid-game](https://github.com/Manzoor-22/LeetCode/tree/master/2145-grid-game) |
 | [2411-spiral-matrix-iv](https://github.com/Manzoor-22/LeetCode/tree/master/2411-spiral-matrix-iv) |
 ## String Matching
 |  |
@@ -891,6 +893,7 @@ Collection of LeetCode questions solved.
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Manzoor-22/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2044-number-of-wonderful-substrings](https://github.com/Manzoor-22/LeetCode/tree/master/2044-number-of-wonderful-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Manzoor-22/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2145-grid-game](https://github.com/Manzoor-22/LeetCode/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/Manzoor-22/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 ## Binary Search Tree
 |  |
