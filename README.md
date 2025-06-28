@@ -219,6 +219,7 @@ Collection of LeetCode questions solved.
 | [2145-grid-game](https://github.com/Manzoor-22/LeetCode/tree/master/2145-grid-game) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Manzoor-22/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/Manzoor-22/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Manzoor-22/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Manzoor-22/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Manzoor-22/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Manzoor-22/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -292,6 +293,7 @@ Collection of LeetCode questions solved.
 | [2044-number-of-wonderful-substrings](https://github.com/Manzoor-22/LeetCode/tree/master/2044-number-of-wonderful-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Manzoor-22/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Manzoor-22/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Manzoor-22/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Manzoor-22/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2427-first-letter-to-appear-twice](https://github.com/Manzoor-22/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2502-sort-the-people](https://github.com/Manzoor-22/LeetCode/tree/master/2502-sort-the-people) |
@@ -518,6 +520,7 @@ Collection of LeetCode questions solved.
 | [1741-sort-array-by-increasing-frequency](https://github.com/Manzoor-22/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Manzoor-22/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2164-two-best-non-overlapping-events](https://github.com/Manzoor-22/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Manzoor-22/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2502-sort-the-people](https://github.com/Manzoor-22/LeetCode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Manzoor-22/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Manzoor-22/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -838,6 +841,7 @@ Collection of LeetCode questions solved.
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Manzoor-22/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Manzoor-22/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/Manzoor-22/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Manzoor-22/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Manzoor-22/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Bucket Sort
 |  |
