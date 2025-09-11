@@ -98,6 +98,7 @@ Collection of LeetCode questions solved.
 | [2502-sort-the-people](https://github.com/Manzoor-22/LeetCode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Manzoor-22/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/Manzoor-22/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [2887-sort-vowels-in-a-string](https://github.com/Manzoor-22/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Manzoor-22/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/Manzoor-22/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Manzoor-22/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -525,6 +526,7 @@ Collection of LeetCode questions solved.
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Manzoor-22/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Manzoor-22/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Manzoor-22/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2887-sort-vowels-in-a-string](https://github.com/Manzoor-22/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Manzoor-22/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Bit Manipulation
 |  |
