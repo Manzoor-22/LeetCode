@@ -213,6 +213,7 @@ Collection of LeetCode questions solved.
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Manzoor-22/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Manzoor-22/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Manzoor-22/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1833-maximum-ice-cream-bars](https://github.com/Manzoor-22/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Manzoor-22/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Manzoor-22/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Manzoor-22/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -481,6 +482,7 @@ Collection of LeetCode questions solved.
 | [1502-construct-k-palindrome-strings](https://github.com/Manzoor-22/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Manzoor-22/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Manzoor-22/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1833-maximum-ice-cream-bars](https://github.com/Manzoor-22/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1880-largest-merge-of-two-strings](https://github.com/Manzoor-22/LeetCode/tree/master/1880-largest-merge-of-two-strings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Manzoor-22/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Manzoor-22/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -521,6 +523,7 @@ Collection of LeetCode questions solved.
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Manzoor-22/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Manzoor-22/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Manzoor-22/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1833-maximum-ice-cream-bars](https://github.com/Manzoor-22/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2164-two-best-non-overlapping-events](https://github.com/Manzoor-22/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Manzoor-22/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2502-sort-the-people](https://github.com/Manzoor-22/LeetCode/tree/master/2502-sort-the-people) |
@@ -879,6 +882,7 @@ Collection of LeetCode questions solved.
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Manzoor-22/LeetCode/tree/master/0948-sort-an-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/Manzoor-22/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 ## Trie
 |  |
 | ------- |
