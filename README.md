@@ -467,6 +467,7 @@ Collection of LeetCode questions solved.
 | [2067-maximum-number-of-points-with-cost](https://github.com/Manzoor-22/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2164-two-best-non-overlapping-events](https://github.com/Manzoor-22/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2755-extra-characters-in-a-string](https://github.com/Manzoor-22/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Manzoor-22/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Greedy
 |  |
 | ------- |
@@ -907,6 +908,7 @@ Collection of LeetCode questions solved.
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Manzoor-22/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/Manzoor-22/LeetCode/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/Manzoor-22/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Manzoor-22/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Binary Search Tree
 |  |
 | ------- |
