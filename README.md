@@ -651,6 +651,7 @@ Collection of LeetCode questions solved.
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/Manzoor-22/LeetCode/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Manzoor-22/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3567-convert-date-to-binary](https://github.com/Manzoor-22/LeetCode/tree/master/3567-convert-date-to-binary) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Manzoor-22/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Randomized
 |  |
 | ------- |
@@ -1012,4 +1013,8 @@ Collection of LeetCode questions solved.
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Manzoor-22/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Manzoor-22/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
